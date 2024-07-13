@@ -2,6 +2,7 @@
   "name": "{{ name }}",
   "version": "1.0.0",
   "description": "{{ description }}",
+  "resourceRepo": "{{ resourceRepo }}",
   "main": "index.js",
   "dependencies": {
     "commander": "^6.1.0",
